@@ -1,3 +1,5 @@
+// Author: [Hilson-Alex](https://github.com/Hilson-Alex).
+
 package exercises
 
 import (
